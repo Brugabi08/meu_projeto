@@ -1,2 +1,3 @@
 New line of the text
 Linha escrita na main
+Mais uma linha adicionada
